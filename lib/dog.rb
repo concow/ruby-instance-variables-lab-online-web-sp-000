@@ -13,4 +13,5 @@ lassie = Dog.new
 lassie.name = "Lassie"
 
 puts lassie.name
+
 #accessors are a way to create getter and setter methods
