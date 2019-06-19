@@ -4,7 +4,7 @@ class Dog
     @this_dogs_name = dog_name   #instance variable
   end
 
-  def name                    #reader method, responsible for reporting. Also
+  def name                    #reader method, responsible for reporting. Also known as getter method
       @this_dogs_name
   end
 end
