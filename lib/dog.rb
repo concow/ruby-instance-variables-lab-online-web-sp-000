@@ -5,7 +5,7 @@ class Dog
   end
 
   def name          #(INSTANCE METHOD) getter/reader method, responsible for reporting. Without #getter, you can't retrieve a value of an instance variable outside the class the instance variable is instantiated from.
-      @this_dogs_name
+      @this_dogs_name     #instance variable
   end
 end
 
