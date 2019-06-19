@@ -8,3 +8,5 @@ class Dog
       @this_dogs_name
   end
 end
+
+#accessors are a way to create getter and setter methods
